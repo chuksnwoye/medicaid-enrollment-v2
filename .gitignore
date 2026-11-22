@@ -1,0 +1,14 @@
+data/
+artifacts/
+*.dta
+*.joblib
+*.pkl
+*.parquet
+*.csv
+.venv/
+venv/
+venvn/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.streamlit/secrets.toml
